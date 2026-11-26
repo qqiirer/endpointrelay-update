@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "alpha",
-  "latest": "firmware-alpha-1.0.0.2.bin",
+  "latest": "firmware-alpha-1.0.0.1.bin",
   "builds": [
     {
       "version": "alpha-1.0.0.2",
@@ -10,7 +10,7 @@
       "sha256": "e1b4cd865bb43ae347f7d0a8bd8ceeaa459bd4dfcdd549b6234b7e629e47ac3f",
       "datetime": "2026-11-25 23:17:00",
       "notes": "升级配试 alpha 测试版",
-      "available": true
+      "available": false
     },
     {
       "version": "alpha-1.0.0.1",
